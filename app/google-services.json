@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "392812125415",
+    "firebase_url": "https://postmit-dd495.firebaseio.com",
+    "project_id": "postmit-dd495",
+    "storage_bucket": "postmit-dd495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392812125415:android:7e8ec3db03705969cad642",
+        "android_client_info": {
+          "package_name": "com.example.postmit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392812125415-q7a9a5o32fu9klk48hr5n3sl4a9b02p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7en3T1CCjzJh-YDpUkn7JAafk2IGZsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392812125415-q7a9a5o32fu9klk48hr5n3sl4a9b02p6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392812125415-2dmmpe9j1s92u54e6o1iv3oqd8qlk1rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Serhat-Samioglu.PostMit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392812125415:android:3fe78eb6cd8b1b75cad642",
+        "android_client_info": {
+          "package_name": "com.example.postmit2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392812125415-q7a9a5o32fu9klk48hr5n3sl4a9b02p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7en3T1CCjzJh-YDpUkn7JAafk2IGZsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392812125415-q7a9a5o32fu9klk48hr5n3sl4a9b02p6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392812125415-2dmmpe9j1s92u54e6o1iv3oqd8qlk1rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Serhat-Samioglu.PostMit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

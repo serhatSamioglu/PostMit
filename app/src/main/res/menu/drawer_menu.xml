@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Ana Sayfa" />
+
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Ürünler" />
+
+        <item
+            android:id="@+id/nav_mits"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Mitler" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="İletişim" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Hesap Ayarları" />
+    </group>
+
+</menu>
